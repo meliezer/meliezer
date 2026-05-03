@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Menashe 👋
 
-<!--
-**meliezer/meliezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer with 20+ years of experience building scalable, high-throughput systems and production-grade APIs.
 
-Here are some ideas to get you started:
+## 🔧 Tech Focus
+- Java (8–21), Kotlin
+- Spring Boot, Quarkus (Mutiny)
+- Microservices, Distributed Systems, REST APIs
+- PostgreSQL, MongoDB, Kafka
+- Docker, Kubernetes, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Selected Work
+- 🔗 https://github.com/meliezer/inventory-concurrency-demo  
+  Concurrency handling with optimistic locking & retry strategies (PostgreSQL)
+
+- 🔗 https://github.com/meliezer/quarkus-real-time-offer-service  
+  TDD-driven Quarkus service with reactive patterns
+
+## 🌍 Open Source Contributions
+- Spring Security
+- Kubernetes controller-tools
+- Rust reqwest
+- GitPython
+
+## 🔗 Profiles
+- GitHub: https://github.com/meliezer
+- GitLab: https://gitlab.com/menashe.eliezer
+- LinkedIn: https://www.linkedin.com/in/menashe-eliezer-254267/
+
+---
