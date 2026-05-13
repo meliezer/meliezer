@@ -23,7 +23,7 @@ Recently focused on:
 
 ## 🚀 Selected Work
 
-### [Realtime AI Gateway](https://github.com/meliezer/realtime-ai-gateway?utm_source=chatgpt.com)
+### [Realtime AI Gateway](https://github.com/meliezer/realtime-ai-gateway)
 Prototype realtime AI gateway featuring:
 - OpenAI-compatible streaming APIs
 - Redis pub/sub event streaming
@@ -33,10 +33,10 @@ Prototype realtime AI gateway featuring:
 - structured observability
 - production-minded backend architecture
 
-### [Inventory Concurrency Demo](https://github.com/meliezer/inventory-concurrency-demo?utm_source=chatgpt.com)
+### [Inventory Concurrency Demo](https://github.com/meliezer/inventory-concurrency-demo)
 Concurrency handling with optimistic locking, retry strategies, transactional correctness, and PostgreSQL consistency patterns.
 
-### [GitLab DevSecOps Showcase](https://gitlab.com/menashe.eliezer/inventory-concurrency-devsecops-showcase?utm_source=chatgpt.com)
+### [GitLab DevSecOps Showcase](https://gitlab.com/menashe.eliezer/inventory-concurrency-devsecops-showcase)
 Production-style CI/CD and DevSecOps pipeline showcasing:
 - SAST and container scanning
 - dependency scanning
@@ -44,7 +44,7 @@ Production-style CI/CD and DevSecOps pipeline showcasing:
 - GitLab pipeline orchestration
 - security-oriented backend delivery practices
 
-### [Quarkus Real-Time Offer Service](https://github.com/meliezer/quarkus-real-time-offer-service?utm_source=chatgpt.com)
+### [Quarkus Real-Time Offer Service](https://github.com/meliezer/quarkus-real-time-offer-service)
 TDD-driven Quarkus service showcasing reactive backend patterns, clean architecture, and production-style engineering workflows.
 
 ---
@@ -70,6 +70,6 @@ Highlights include:
 
 ## 🔗 Profiles
 
-- [GitHub](https://github.com/meliezer?utm_source=chatgpt.com)
-- [GitLab](https://gitlab.com/menashe.eliezer?utm_source=chatgpt.com)
-- [LinkedIn](https://www.linkedin.com/in/menashe-eliezer-254267/?utm_source=chatgpt.com)
+- [GitHub](https://github.com/meliezer)
+- [GitLab](https://gitlab.com/menashe.eliezer)
+- [LinkedIn](https://www.linkedin.com/in/menashe-eliezer-254267/)
